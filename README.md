@@ -18,6 +18,10 @@
 
 ![Diagrama ER](./er.jpg)
 
+4. Diagrama BPMN:
+
+![Diagrama BPMN](./bpmn.png)
+
 ## Metodología usada:
 
 Dada la complejidad del proyecto “Halcon”, una metodología de trabajo adecuada sería scrum. ya que:
