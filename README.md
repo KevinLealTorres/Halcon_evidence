@@ -12,15 +12,11 @@
 
 2. Diagrama de actividades
 
-![Diagrama de actividades](./actividad.jpg)
+![Diagrama de actividades](./actividades.jpg)
 
 3. Diagrama ER
 
 ![Diagrama ER](./er.jpg)
-
-4. Diagrama BPMN
-
-TODO
 
 ## Metodología usada:
 
